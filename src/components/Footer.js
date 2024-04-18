@@ -5,11 +5,11 @@ export default function Footer() {
         Coded with ❤️ by{" "}
         <a
           className="footer--link"
-          href="https://emanueledelmonte.it"
+          href="https://github.com/Shivamshrivaastava/"
           target="_blank"
           rel="noreferrer"
         >
-          Emanuele Del Monte
+          Shivam shrivastava
         </a>
         .
       </small>
